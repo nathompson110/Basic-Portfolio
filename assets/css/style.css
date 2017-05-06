@@ -1,0 +1,129 @@
+.profile {
+	width:120px;
+}
+
+.linkbtn {
+	width:40px;
+}
+
+.page-links {
+	text-decoration: none;
+
+}
+/*.portpics{
+	width:90%;
+	position:relative;
+	*/
+}
+
+
+
+}
+#rectangle{
+    width:100%;
+    height:60px;
+    background:#ffffff;
+}
+#name {
+	width: 100%;
+}
+
+#email {
+	width: 100%;
+}
+
+#message {
+	 width: 100%;
+}
+
+
+
+h1 {
+	padding: 10px;
+  	margin-bottom: 20px;
+	margin-left: 15%;
+  	margin-right: 40%;
+	font-size: 40px;
+	color: #ffffff;
+	border:#cccccc;
+	border-width: 100%;
+	background: #4aaaa5;
+	text-align: center;
+
+
+
+}
+
+h2 {
+	text-align: center;
+	color: #4aaaa5;
+	border-bottom: 1px solid #cccccc;
+}
+
+h3 {
+	text-align: center;
+	color: #ffffff;
+	z-index: 100;
+	background: #4aaaa5;
+	position:absolute;
+	width:200px;
+	margin-top:150px;
+
+}
+/*h3 {
+	position:absolute;
+	top:200px;
+	left:5px;
+	width:80%;
+	z-index: 100;
+	color:#4aaaa5;
+	background:#4aaaa5;
+
+}*/
+.page-links {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	padding: 20px;
+  	margin-bottom: 30px;
+	float:right;
+	color: #777777;
+	background: #ffffff;
+}
+
+.container {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 20px;
+	color: #777777;
+	background: #ffffff;
+	padding: 10px;
+	margin-left: 80px;
+	margin-right: 10px;
+  	margin-bottom: 10px;
+  	width:540px;
+  	float:left;
+
+}
+
+.aside {
+	/*position:relative;*/
+	float:left;
+	padding:10px;
+	margin:10px;
+	background-color: white;
+}
+
+.container-footer {
+	clear:both;
+	position:absolute;
+	left:0;
+	bottom:0;
+	width:100%;
+	height:50px;
+	background-color: #666666;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 20px;
+	color: #777777;
+	text-align: center;
+}
+
+
+

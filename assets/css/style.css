@@ -1,19 +1,31 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 100px;
+  /*  position: relative; */
+}    
+
 .profile {
 	width:120px;
 }
-
+header {
+	background-color: white;
+}
 .linkbtn {
 	width:40px;
 }
 
 .page-links {
 	text-decoration: none;
+	margin-right:20px;
 
 }
-/*.portpics{
-	width:90%;
-	position:relative;
-	*/
+.portpics{
+	width:200px;
+	/*position:relative;*/
+	
 }
 
 
@@ -40,9 +52,10 @@
 
 h1 {
 	padding: 10px;
+	padding-top: 20px;
   	margin-bottom: 20px;
-	margin-left: 15%;
-  	margin-right: 40%;
+	margin-left: 10%;
+  	margin-right: 60%;
 	font-size: 40px;
 	color: #ffffff;
 	border:#cccccc;
@@ -68,6 +81,7 @@ h3 {
 	position:absolute;
 	width:200px;
 	margin-top:150px;
+	
 
 }
 /*h3 {
@@ -94,12 +108,14 @@ h3 {
 	font-size: 20px;
 	color: #777777;
 	background: #ffffff;
-	padding: 10px;
-	margin-left: 80px;
-	margin-right: 10px;
-  	margin-bottom: 10px;
+	padding-bottom:40px;
+	margin-left: 40px;
+	margin-right: 80px;
+  	margin-bottom: 20px;
   	width:540px;
   	float:left;
+  	padding-left:60px;
+  	border-top: 20px solid white;
 
 }
 
@@ -109,6 +125,7 @@ h3 {
 	padding:10px;
 	margin:10px;
 	background-color: white;
+	border-top: 20px solid white;
 }
 
 .container-footer {
@@ -123,6 +140,7 @@ h3 {
 	font-size: 20px;
 	color: #777777;
 	text-align: center;
+	margin-top:20px;
 }
 
 

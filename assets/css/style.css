@@ -37,15 +37,21 @@ header {
     background:#ffffff;
 }
 #name {
-	width: 100%;
+	width: 80%;
 }
 
 #email {
-	width: 100%;
+	width: 80%;
 }
 
-#message {
-	 width: 100%;
+#comment {
+	 width: 80%;
+}
+
+#submit {
+	background:#4aaaa5;
+	color:white;
+
 }
 
 
